@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/xiaoblog.iml" filepath="$PROJECT_DIR$/.idea/xiaoblog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/love125.iml" filepath="$PROJECT_DIR$/.idea/love125.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaoblogs/xiaoblog.iml" filepath="$PROJECT_DIR$/xiaoblogs/xiaoblog.iml" />
     </modules>
   </component>
 </project>
